@@ -1,0 +1,4 @@
+Before git add
+
+After git add and before commit doing git status first
+
