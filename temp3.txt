@@ -2,3 +2,8 @@ Before git add
 
 After git add and before commit doing git status first
 
+
+git diff test
+
+
+git commit -m -a "another test"
